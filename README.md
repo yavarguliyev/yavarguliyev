@@ -65,7 +65,7 @@ Welcome to my GitHub profile!
 
 - **Cloud‑Native SaaS Analytics (Helpware Tech, 2022–Present)** – Own backend architecture and roadmap for a US‑facing SaaS analytics platform, using AWS (EKS, RDS, S3), Kubernetes, Helm, and Jenkins CI/CD to optimize throughput, reliability, and cost for 10,000+ users.  
 - **Scalable Node.js Backend (Codemotion Ninjas, 2020–2022)** – Built event‑driven, microservice‑style systems using Node.js, NestJS, PostgreSQL, Redis, RabbitMQ, and Kafka, handling 10,000+ concurrent users.  
-- **Logistics & Warehouse Platform (Logistex.az, 2018–2019)** – Designed and implemented a modular logistics and warehouse‑management platform in .NET, covering order, fleet, and financial workflows for the Azerbaijani market.
+- **Logistics & Warehouse Platform (UNISOFT LLC, 2018–2019)** – Designed and implemented a modular logistics and warehouse‑management platform in .NET, covering order, fleet, and financial workflows for the Azerbaijani market.
 
 ---
 
