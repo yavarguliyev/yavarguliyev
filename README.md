@@ -87,9 +87,7 @@ When I’m not coding, you’ll likely find me:
 ---
 
 ## 📫 How to Reach Me
-
 ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) **Email**: [guliyev.yavar@gmail.com](mailto:guliyev.yavar@gmail.com)  
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) **GitHub**: [yavarguliyev](https://github.com/yavarguliyev)  
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin) **LinkedIn**: [yavarguliyev10](https://www.linkedin.com/in/yavarguliyev10/)  
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram) **Telegram**: [yavarguliyev](https://t.me/yavarguliyev)  
