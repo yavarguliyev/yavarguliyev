@@ -97,3 +97,9 @@ When I’m not coding, you’ll likely find me:
 ---
 
 Feel free to explore my repositories and get in touch if you’d like to collaborate or just chat! 😊
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yavarguliyev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=8" alt="Yavar's GitHub Stats" />
+
+</div>
