@@ -1,9 +1,11 @@
 <div align="center">
+
 # 👋 Hi There!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=007ACC&center=true&vCenter=true&width=800&fixedWidth=true&lines=Senior+Backend+Engineer+|+Node.js+%26+TypeScript;Architecting+High-Performance+Systems;Domain-Driven+Design+Expert" alt="Typing SVG" />
+### Senior Backend Engineer | Node.js & TypeScript | Architecting High-Performance Systems | Domain-Driven Design Expert
 
 Welcome to my GitHub profile!
+
 </div>
 
 ---
