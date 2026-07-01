@@ -2,7 +2,7 @@
 
 # 👋 Hi There!
 
-### Senior Backend Engineer | Node.js & TypeScript | Architecting High-Performance Systems | Domain-Driven Design Expert
+### Senior Backend Engineer | Node.js & TypeScript | Architecting High-Performance Systems | DDD Expert
 
 Welcome to my GitHub profile!
 
